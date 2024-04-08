@@ -1,0 +1,13 @@
+.landing-page-container {
+    display: flex;
+}
+
+.landing-page-content {
+    flex: 1;
+}
+
+.landing-page-main-content {
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 20px;
+}

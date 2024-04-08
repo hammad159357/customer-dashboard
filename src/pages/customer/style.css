@@ -1,0 +1,21 @@
+.customer-button {
+    width: 344px;
+    height: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    font-family: lato, semibold;
+    color: #FFFFFF;
+    background: linear-gradient(105deg, #57BC90, #004B40);
+    box-shadow: 0px 5px 25px #00000040;
+    border-radius: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+}
+
+.customer-button:hover {
+    background: linear-gradient(105deg, #004B40, #57BC90);
+}
